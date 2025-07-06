@@ -1,7 +1,6 @@
 # **K-Means Clustering - Synthetic Dataset**
 
-## **🔗 Google Colab Link**
-[Click here to view and run the code in Google Colab](https://colab.research.google.com/drive/1GDHvecQlewyG2bcaRJylR1CbZ9DHb0Eo?usp=sharing)
+## **🔗 Google Colab Link**                                                                                                                                (https://colab.research.google.com/drive/1GDHvecQlewyG2bcaRJylR1CbZ9DHb0Eo?usp=sharing)
 
 ---
 
